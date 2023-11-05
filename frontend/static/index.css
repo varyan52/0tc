@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+  padding: 50px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  text-align: center;
+  color: white;
+  margin: 10px 0;
+  background-color: rgb(15, 5, 43);
+  padding: 30px;
+  border: black;
+  border-radius: 2px;
+}
+a:hover{
+  color: gold;
+  cursor: pointer;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
